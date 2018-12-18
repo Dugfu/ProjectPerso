@@ -1,0 +1,147 @@
+// Make your diorama!!
+// Original https://codepen.io/YusukeNakaya/pen/dQOOea
+
+// - STEP 1: Fork
+// - STEP 2: Change property "title" and "colors".
+// - STEP 3: Share on SNS
+
+// Name Plate
+- title = "My Diorama"
+
+// Color of cube. ex: "#ff0000", "rgba(255, 255, 255, 1)"
+-
+  colors = [
+    [
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none"
+    ],
+    [
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none"
+    ],
+    [
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none"
+    ],
+    [
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none"
+    ],
+    [
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none"
+    ],
+    [
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none"
+    ],
+    [
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "#fff", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none",
+      "none", "none", "none", "none", "none", "none", "none"
+    ]
+  ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- const split = 7
+
+mixin box(color)
+  .box(class!=attributes.class)
+    .box_inner
+      - var display = color == "none" ? "none" : "block"
+      .box_panel.o-front(style="background:" + color + ";display:" + display)
+      .box_panel.o-left(style="background:" + color + ";display:" + display)
+      .box_panel.o-right(style="background:" + color + ";display:" + display)
+      .box_panel.o-top(style="background:" + color + ";display:" + display)
+      .box_panel.o-back(style="background:" + color + ";display:" + display)
+
+.controller.o-1
+.controller.o-2
+.controller.o-3
+.controller.o-4
+.controller.o-5
+
+input.input.wireframe#wireframe(type='checkbox')
+label.label.wireframe(for='wireframe') Wire frame
+input.input.camera_h#camera_h(type='checkbox' checked)
+label.label.camera_h(for='camera_h') Camera Left-Right
+input.input.camera_v#camera_v(type='checkbox' checked)
+label.label.camera_v(for='camera_v') Camera Up-Down
+
+.diorama
+  .diorama_x
+    .diorama_z
+      .base
+        .base_panel.o-top
+        .base_panel.o-front
+          h1.diorama_title= title
+        .base_panel.o-back
+        .base_panel.o-left
+        .base_panel.o-right
+      - for (layer = 0; layer < split; layer++)
+        .layer
+          - for (box = 0; box < split * split; box++)
+            - const key = "key_" + layer + "_" + box
+            +box(colors[layer][box])(class=key)
