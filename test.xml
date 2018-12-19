@@ -1,0 +1,324 @@
+<row>
+  <ID>1</ID>
+  <Nom>GCA TOYOTA CHOLET</Nom>
+  <Adresse1>5 rue de la Baie d&amp;#39;Hudson</Adresse1>
+  <CodePostal>49300</CodePostal>
+  <Ville>CHOLET</Ville>
+  <Contact>02.41.65.03.05</Contact>
+</row>
+<row>
+  <ID>3</ID>
+  <Nom>GCA TOYOTA ANGERS</Nom>
+  <Adresse1>12, Boulevard de la LIberté</Adresse1>
+  <CodePostal>49000</CodePostal>
+  <Ville>ANGERS</Ville>
+  <Contact>02.41.44.55.66</Contact>
+</row>
+<row>
+  <ID>4</ID>
+  <Nom>GCA TOYOTA NANTES ST HERBLAIN</Nom>
+  <Adresse1>387, Route de Vannes</Adresse1>
+  <Adresse2>Rond Point du Croisy</Adresse2>
+  <CodePostal>44800</CodePostal>
+  <Ville>SAINT HERBLAIN</Ville>
+  <Contact>02.40.72.87.87</Contact>
+</row>
+<row>
+  <ID>5</ID>
+  <Nom>GCA TOYOTA RENNES</Nom>
+  <Adresse1>9, rue de Paris</Adresse1>
+  <CodePostal>35510</CodePostal>
+  <Ville>CESSON SEVIGNE</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>6</ID>
+  <Nom>GCA TOYOTA NANTES SUD</Nom>
+  <Adresse1>Porte de Rezé Sud</Adresse1>
+  <Adresse2>Route de Nantes</Adresse2>
+  <CodePostal>44840</CodePostal>
+  <Ville>LES SORINNIERES</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>7</ID>
+  <Nom>GCK KIA RENNES</Nom>
+  <Adresse1> 1 Rue des Mesliers</Adresse1>
+  <CodePostal>35510</CodePostal>
+  <Ville>CESSON SEVIGNE</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>8</ID>
+  <Nom>GCH HYUNDAI RENNES</Nom>
+  <Adresse1>9 Rue de Paris</Adresse1>
+  <CodePostal>35510</CodePostal>
+  <Ville>CESSON SEVIGNE</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>9</ID>
+  <Nom>BMW ENVERGURE AUTO ST LO</Nom>
+  <Adresse1>Rond point de l&amp;#39;Europe - BP 212</Adresse1>
+  <CodePostal>50000</CodePostal>
+  <Ville>ST LO</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>10</ID>
+  <Nom>BMW ENVERGURE AUTO MEAUX</Nom>
+  <Adresse1>840 Côte de la Justice</Adresse1>
+  <CodePostal>77100</CodePostal>
+  <Ville>MAREUIL LES MEAUX</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>11</ID>
+  <Nom>GCA TOYOTA REDON</Nom>
+  <Adresse1>ZI de Briangaud</Adresse1>
+  <Adresse2>Rue de la Vieille Ville</Adresse2>
+  <CodePostal>35600</CodePostal>
+  <Ville>REDON</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>12</ID>
+  <Nom>GCA TOYOTA BEGLES</Nom>
+  <Adresse1>52 Quai Wilson</Adresse1>
+  <CodePostal>33130</CodePostal>
+  <Ville>BEGLES</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>13</ID>
+  <Nom>GCA TOYOTA BAYEUX</Nom>
+  <Adresse1>Zone Industrielle</Adresse1>
+  <Adresse2>Rue de Caen</Adresse2>
+  <CodePostal>14400</CodePostal>
+  <Ville>BAYEUX</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>14</ID>
+  <Nom>GCA TOYOTA ST NAZAIRE</Nom>
+  <Adresse1>176 Avenue de Saint Nazaire</Adresse1>
+  <CodePostal>44600</CodePostal>
+  <Ville>ST NAZAIRE</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>15</ID>
+  <Nom>GCA TOYOTA ST MALO</Nom>
+  <Adresse1>ZAC Grassinais</Adresse1>
+  <CodePostal>35400</CodePostal>
+  <Ville>ST MALO</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>16</ID>
+  <Nom>GCA TOYOTA SABLE</Nom>
+  <Adresse1>18 Route de la Flèche</Adresse1>
+  <CodePostal>72300</CodePostal>
+  <Ville>SABLE SUR SARTHE</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>17</ID>
+  <Nom>GCA PRET A PORTER</Nom>
+  <Adresse1>5, rue de la Baie d&amp;#39;Hudson</Adresse1>
+  <Adresse2>ZI de l&amp;#39;Ecuillière </Adresse2>
+  <CodePostal>49300</CodePostal>
+  <Ville>CHOLET</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>18</ID>
+  <Nom>GCA TOYOTA LIBOURNE</Nom>
+  <Adresse1>181 avenue Georges Pompidou</Adresse1>
+  <CodePostal>33500</CodePostal>
+  <Ville>LIBOURNE</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>19</ID>
+  <Nom>GCA TOYOTA LE MANS</Nom>
+  <Adresse1>308-310 boulevard Demorieux</Adresse1>
+  <Adresse2>308-310 boulevard Demorieux CS52732</Adresse2>
+  <CodePostal>72001</CodePostal>
+  <Ville>LE MANS</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>20</ID>
+  <Nom>GCA TOYOTA LAVAL</Nom>
+  <Adresse1>Soleil Levant Automobiles</Adresse1>
+  <Adresse2>la croix des landes</Adresse2>
+  <CodePostal>53940</CodePostal>
+  <Ville>ST BERTHEVIN</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>21</ID>
+  <Nom>GCA INVESTISSEMENTS</Nom>
+  <Adresse1>5, rue de la Baie d&amp;#39;Hudson</Adresse1>
+  <Adresse2>ZI de l&amp;#39;Ecuillière </Adresse2>
+  <CodePostal>49300</CodePostal>
+  <Ville>CHOLET</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>22</ID>
+  <Nom>GCA TOYOTA CAEN</Nom>
+  <Adresse1>77-79 Route de PARIS</Adresse1>
+  <CodePostal>14120</CodePostal>
+  <Ville>MONDEVILLE</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>23</ID>
+  <Nom>GCA TOYOTA MERIGNAC</Nom>
+  <Adresse1>4 Rue Gutenberg</Adresse1>
+  <CodePostal>33700</CodePostal>
+  <Ville>MERIGNAC</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>24</ID>
+  <Nom>GCA TOYOTA ARGENTAN</Nom>
+  <Adresse1>ZA Actival d&amp;#39;Orne</Adresse1>
+  <Adresse2>Route de Flers</Adresse2>
+  <CodePostal>61200</CodePostal>
+  <Ville>SARCEAUX</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>25</ID>
+  <Nom>GCA TOYOTA ARCACHON</Nom>
+  <Adresse1>41 Avenue de l&amp;#39;Aérodrome</Adresse1>
+  <CodePostal>33260</CodePostal>
+  <Ville>LA TESTE</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>26</ID>
+  <Nom>GCA TOYOTA ST LO</Nom>
+  <Adresse1>Rue Joseph Cugnot</Adresse1>
+  <CodePostal>50000</CodePostal>
+  <Ville>ST LO</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>27</ID>
+  <Nom>GCA TOYOTA MAYENNE</Nom>
+  <Adresse1>Impasse André Marie Ampère</Adresse1>
+  <CodePostal>53100</CodePostal>
+  <Ville>MAYENNE</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>28</ID>
+  <Nom>GCA TOYOTA LISIEUX</Nom>
+  <Adresse1>Rue Jean Charlres Contel</Adresse1>
+  <Adresse2>ZAC Les Hauts de Glos</Adresse2>
+  <CodePostal>14100</CodePostal>
+  <Ville>GLOS</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>29</ID>
+  <Nom>GCA GRANVILLE</Nom>
+  <Adresse1>7 Route de la Nicolière</Adresse1>
+  <CodePostal>50380</CodePostal>
+  <Ville>ST PAIR SUR MER</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>30</ID>
+  <Nom>GCA TOYOTA FLERS</Nom>
+  <Adresse1>Za de la Minière</Adresse1>
+  <Adresse2>Route de Domfront</Adresse2>
+  <CodePostal>61100</CodePostal>
+  <Ville>FLERS</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>31</ID>
+  <Nom>GCA TOYOTA CHERBOURG</Nom>
+  <Adresse1>70, rue Pierre Brossolette</Adresse1>
+  <CodePostal>50110</CodePostal>
+  <Ville>TOURLAVILLE</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>32</ID>
+  <Nom>GCK KIA ORVAULT</Nom>
+  <Adresse1>Rue Emile Levassor</Adresse1>
+  <CodePostal>44700</CodePostal>
+  <Ville>ORVAULT</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>33</ID>
+  <Nom>GCK KIA ST NAZAIRE</Nom>
+  <Adresse1>3 Rue de la Côte d&amp;#39;Emeraude</Adresse1>
+  <CodePostal>44600</CodePostal>
+  <Ville>ST NAZAIRE</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>34</ID>
+  <Nom>GCF FIAT ST MALO</Nom>
+  <Adresse1>20 Allée de la Grassinais</Adresse1>
+  <CodePostal>35400</CodePostal>
+  <Ville>ST MALO</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>35</ID>
+  <Nom>GCF FIAT CESSON</Nom>
+  <Adresse1>9 Rue de Paris</Adresse1>
+  <CodePostal>35510</CodePostal>
+  <Ville>CESSON SEVIGNE</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>36</ID>
+  <Nom>GCH HYUNDAI LAVAL</Nom>
+  <Adresse1>La Croix des Landes</Adresse1>
+  <CodePostal>53000</CodePostal>
+  <Ville>ST BERTHEVIN</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>37</ID>
+  <Nom>GCH HYUNDAI SAINT MALO</Nom>
+  <Adresse1>20 Allée de la Grassinais</Adresse1>
+  <CodePostal>35400</CodePostal>
+  <Ville>ST MALO</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>38</ID>
+  <Nom>BMW ENVERGURE AUTO TOURLAVILLE</Nom>
+  <Adresse1>73 Rue Pierre Brossolette</Adresse1>
+  <CodePostal>50110</CodePostal>
+  <Ville>TOURLAVILLE</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>39</ID>
+  <Nom>BMW ST LO</Nom>
+  <Adresse1>Rond Point de l&amp;#39;Europe</Adresse1>
+  <CodePostal>50000</CodePostal>
+  <Ville>ST LO</Ville>
+  <Contact>GIDEL</Contact>
+</row>
+<row>
+  <ID>40</ID>
+  <Nom>GCA TOYOTA BAROCHE ALENCON</Nom>
+  <Adresse1>ZAT Londeau -Cerisé</Adresse1>
+  <Adresse2>Route de Paris</Adresse2>
+  <CodePostal>61004</CodePostal>
+  <Ville>ALENCON</Ville>
+  <Contact>GIDEL</Contact>
+</row>
