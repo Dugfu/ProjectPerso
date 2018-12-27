@@ -1,6 +1,6 @@
 #Don't track content of these folders
 Carousel/
-AnimationCartoon/
+AnimationsCartoon/
 Calm/
 Diorama/
 LoadingJump/
@@ -8,4 +8,4 @@ LoginLogout/
 NavMobile/
 Pagination/
 Starfox/
-StarWasSlider/
+StarWarsSlider/
