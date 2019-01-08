@@ -1,0 +1,17 @@
+#title{
+   font-family:Helvetica;
+   text-align:center;
+}
+#UserForm{
+   border: 1px solid purple;
+   width:fit-content;
+   display:inline-flex;
+}
+#UserForm input{
+   border:3px solid mediumpurple;
+}
+#screen {
+   border:1px solid purple;
+   width:100%;
+   height:100%;
+}

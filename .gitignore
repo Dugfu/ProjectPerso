@@ -1,0 +1,15 @@
+#Don't track content of these folders
+Carousel/
+AnimationsCartoon/
+Calm/
+Diorama/
+LoadingJump/
+Test Git Clone/
+LoginLogout/
+NavMobile/
+Pagination/
+Starfox/
+StarWarsSlider/
+test.html
+Socket/node_modules/
+Socket Official/node_modules/
